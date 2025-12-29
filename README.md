@@ -11,15 +11,15 @@ The following is a connected system of
 
 ---
 
-### 2. Vectorizer to generated embeddings for existing documents (.pdf, docx etc.)
+### 2. Vectorizer to generate embeddings for existing documents (.pdf, docx etc.)
 <img width="1296" height="455" alt="image" src="https://github.com/user-attachments/assets/d9e4b70c-717e-40fb-8450-cb5bde4283f0" />
 
 ---
 
-### 3. Semantic search prompt on the document corpus, that finds relevant documents
+### 3. Semantic search prompt on the document corpus, to finds relevant documents
 <img width="978" height="403" alt="image" src="https://github.com/user-attachments/assets/30b9648a-2e1d-45af-a3f6-136f61ef96ae" />
 
 ---
 
-### 4. Connection to an LLM that hands the found documents plus a question to the LLM (~3mins on an AMD Ryzen5 laptop)
+### 4. Connection to an LLM, i.e. hand found documents plus a question to the LLM (~3mins on an AMD Ryzen5 laptop)
 <img width="1833" height="1148" alt="image" src="https://github.com/user-attachments/assets/b1680d7c-6f89-44f0-a935-2484fc87bc60" />
