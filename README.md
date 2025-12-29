@@ -1,12 +1,12 @@
 # r a g - l l m
 
-The following is a connected system of
+The following is a prototype connected system of
 - Retrieval Augmented Generation (RAG) and
 - Large Language Model (Llm).
 
 ## It consists of
 
-### 1. Editor+database to enter new text / maintain texts
+### 1. Editor + database to enter new text / maintain texts
   <img width="1511" height="849" alt="image" src="https://github.com/user-attachments/assets/cf66a0b3-f323-4077-a365-74e0006e8ab0" />
 
 ---
@@ -16,7 +16,7 @@ The following is a connected system of
 
 ---
 
-### 3. Semantic search prompt on the document corpus, to finds relevant documents
+### 3. Semantic search prompt on the document corpus, to find relevant documents
 <img width="978" height="403" alt="image" src="https://github.com/user-attachments/assets/30b9648a-2e1d-45af-a3f6-136f61ef96ae" />
 
 ---
