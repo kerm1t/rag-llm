@@ -21,5 +21,10 @@ The following is a prototype connected system of
 
 ---
 
-### 4. Connection to an LLM, i.e. hand found documents plus a question to the LLM (~3mins on an AMD Ryzen5 laptop)
+### 4. Connection to an LLM, i.e. hand found documents plus a question to the LLM
+HW | parsing (sec) | thinking (s) | output (s)
+-|-|-|-
+Laptop AMD Ryzen5 | 53 | 76 | 74
+Laptop i9 + RTX3080 | 4 | 7 | 12
+
 <img width="1833" height="1148" alt="image" src="https://github.com/user-attachments/assets/b1680d7c-6f89-44f0-a935-2484fc87bc60" />
